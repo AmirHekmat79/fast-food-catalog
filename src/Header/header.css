@@ -1,0 +1,8 @@
+header{
+    height: 200px;
+    background:url('../assets/images/header-background.jpg');
+    background-size: cover;
+    background-position: center;
+    letter-spacing: 3px;
+}
+
